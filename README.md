@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MaximeBondeux
-- 👀 I’m interested in web programation
+Bonjour, moi c'est Bondeux Maxime
+J'ai 22 ans
+Je suis développeur web junior
 
-<!---
-MaximeBondeux/MaximeBondeux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je code principalement pour moi et ma famille.
+
+Mon principal projet (en web) actuellement est la réalisation de mon Cv sous format page web.
